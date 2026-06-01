@@ -14,3 +14,4 @@ The aim is to understand how to request help from AI tools for tasks like writin
 
 
 Result: 
+[Ex6_AI_API_Automation.pdf](https://github.com/user-attachments/files/28457946/Ex6_AI_API_Automation.pdf)
